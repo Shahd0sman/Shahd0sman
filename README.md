@@ -1,8 +1,2 @@
 ## Hi there 👋
-
-![pixel bunny](https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif)
-![pixel cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-![pixel bunny](https://media.giphy.com/media/26u4lOMA8JKSnL9Uk/giphy.gif)
-![pixel bear](https://media.giphy.com/media/5xtDarzq6OvDA0mSFXe/giphy.gif)
-![pixel penguin](https://media.giphy.com/media/jUwpNzg9IcyrK/giphy.gif)
-
+<iframe src="https://assets.pinterest.com/ext/embed.html?id=203154633187298454" height="445" width="345" frameborder="0" scrolling="no" ></iframe>
