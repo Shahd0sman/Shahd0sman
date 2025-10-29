@@ -1,5 +1,6 @@
 ## Hi there 👋i'm shahd..
-
+<h1 align="left">Hi, I'm Shahd 👋</h1>
+<img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/Ghost.gif" width="200" style="border-radius:20px;">
 ### 💻 Tech Stack
 
 #### 🗣️ Languages
