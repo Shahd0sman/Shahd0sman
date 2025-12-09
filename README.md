@@ -74,11 +74,11 @@ I believe good code should be clean, simple, expressive — just like good desig
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=Shahd0sman&show_icons=true&theme=dracula"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dracula" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahd0sman&theme=dracula" />
 </p>
 
 ---
@@ -86,9 +86,9 @@ I believe good code should be clean, simple, expressive — just like good desig
 ## 📫 Connect with Me
 
 <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Shahd0sman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="www.linkedin.com/in/shahd-osman-2b2a79371"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:shahdosman819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
