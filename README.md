@@ -24,32 +24,6 @@ I believe good code should be clean, simple, expressive — just like good desig
 
 ---
 
-## 🚀 Technical Skills
-
-### 💻 **Languages**
-- Dart  
-- Python  
-- Java  
-- C++  
-- SQL  
-
-### 📱 **Mobile Development**
-- Flutter  
-- Android Studio  
-
-### 🗄 **Databases**
-- SQLite  
-- MySQL  
-
-### 🛠 **Tools & Software**
-- Git & GitHub  
-- VS Code  
-- Figma  
-- Postman  
-- Firebase (learning soon)  
-
----
-
 ## ✨ Tech Stack & Tools
 
 <p align="center">
