@@ -48,11 +48,11 @@ I believe good code should be clean, simple, expressive — just like good desig
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Shahd0sman&show_icons=true&theme=dracula"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=ritsu&show_icons=true&theme=dracula"/>
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahd0sman&theme=dracula" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritsu&theme=dracula" />
 </p>
 
 ---
