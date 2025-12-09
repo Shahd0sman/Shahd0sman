@@ -3,18 +3,16 @@
 <img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/Ghost.gif" width="200" style="border-radius:20px;">
 
 <p align="center">
-  <strong>Mobile App Developer (Flutter) | CS Student | Coffee-powered Coder</strong>
+  <strong>Mobile App Developer (Flutter) | CS Student</strong>
 </p>
 
 ---
 
 ### 👩🏻‍💻 **About Me**
 - 🌙 Learning **Flutter** & **Dart**
-- 💻 I have background in: **C++**, **Java**, **Python**, **SQL**, **Database**
 - 📱 Passionate about building clean & fast mobile apps  
-- 🎧 Coding with music + cute minimal aesthetics  
-- ⚡ ESTP energy + problem-solver vibes  
-
+- 🎧 Coding with music + cute minimal aesthetics
+  
 ---
 
 ### 🧰 **Tech Skills**
@@ -34,28 +32,17 @@
 - Git  
 - GitHub  
 - VS Code  
-- Figma (beginner)  
 - SQLite / MySQL  
 
 ---
 
-### 🌟 **My 2025 Goals**
-- Build 4 complete Flutter apps  
-- Master state management (Provider → Bloc)  
-- Learn Firebase  
-- Publish my first app on Google Play  
-- Create a strong GitHub portfolio  
-
----
 
 ### 📌 **Pinned Projects (Coming Soon)**  
 - 📱 Flutter: To-do App  
 - ⏱ Stopwatch App  
 - ☁️ Weather App (API)  
 - 🐍 Python scripts (web scraping / automation)  
-
-> هساعدك نعمل المشاريع دي واحدة واحدة ونعمل لها رفع على GitHub كمان ❤️
-
+️
 ---
 
 ### 🎖 **Tech Badges**
