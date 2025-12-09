@@ -1,6 +1,7 @@
 
 <h1 align="center">✨ Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Shahd</h1>
 <img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/Ghost.gif" width="200" style="border-radius:20px;">
+  ---
 <p align="center">
   <strong>Flutter Developer • Mobile App Enthusiast • CS Student </strong>
 </p>
