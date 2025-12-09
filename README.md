@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi, I'm Shahd 👋</h1>
-<img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/Ghost.gif" width="200" style="border-radius:20px;">
+
 
 <p align="center">
   <strong>Mobile App Developer (Flutter) | CS Student</strong>
@@ -54,14 +54,10 @@
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/SQL-336791?sty
-<h1 align="center">✨👻 Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Shahd</h1>
-
+<h1 align="center">✨ Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Shahd</h1>
+<img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/Ghost.gif" width="200" style="border-radius:20px;">
 <p align="center">
-  <img src="YOUR_GHOST_GIF_HERE" width="120">
-</p>
-
-<p align="center">
-  <strong>Flutter Developer • Mobile App Enthusiast • CS Student • Coffee-powered Coder</strong>
+  <strong>Flutter Developer • Mobile App Enthusiast • CS Student </strong>
 </p>
 
 ---
@@ -71,10 +67,7 @@ I'm a passionate Mobile Developer who loves minimal design, clean UI, and expres
 Currently building my way into the **Flutter ecosystem** and improving daily with hands-on projects.  
 I believe good code should be clean, simple, expressive — just like good design.
 
-✨ **Personality**: ESTP  
-🖤 **Aesthetic**: Black • Minimal • Cute ghost vibes  
-👓 **Fun fact**: I always code with glasses, music, and a messy bun 😂  
-
+✨ **Personality**: XSTP  
 ---
 
 ## 🧠 Professional & Learning Journey
@@ -112,24 +105,6 @@ I believe good code should be clean, simple, expressive — just like good desig
 
 ---
 
-## 🔥 Currently Learning
-- Flutter Advanced UI  
-- State Management (Provider → Bloc)  
-- Firebase  
-- Publishing apps on Google Play  
-- System design basics for mobile  
-
----
-
-## 🎯 My 2025 Goals
-- Build at least **4 complete Flutter apps**  
-- Build a **Portfolio App** using Flutter  
-- Learn **Firebase Authentication + Firestore**  
-- Publish my first real app  
-- Build clean, scalable app architectures  
-
----
-
 ## ✨ Tech Stack & Tools
 
 <p align="center">
@@ -138,7 +113,6 @@ I believe good code should be clean, simple, expressive — just like good desig
 
 ---
 
-## 🖤 Cute Aesthetic Divider  
 <p align="center"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></p>
 
 ---
@@ -149,8 +123,6 @@ I believe good code should be clean, simple, expressive — just like good desig
 - ☁ Weather App (API)  
 - 🧮 Simple Calculator  
 - 🐍 Python automation scripts  
-
-*(هنبنيهم سوا واحدة واحدة ❤️)*
 
 ---
 
@@ -176,5 +148,5 @@ I believe good code should be clean, simple, expressive — just like good desig
 
 ---
 
-<p align="center"><strong>🖤 Thanks for stopping by 👻✨</strong></p>
+<p align="center"><strong>🖤 Thanks for stopping by ✨</strong></p>
 
