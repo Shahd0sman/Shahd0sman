@@ -7,11 +7,9 @@ I'm a passionate Mobile Developer who loves minimal design, clean UI, and expres
 Currently building my way into the **Flutter ecosystem** and improving daily with hands-on projects.  
 I believe good code should be clean, simple, expressive — just like good design.
 
----
 
 <img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/Ghost.gif" width="200" style="border-radius:20px;">
 
----
 
 ## 🧠 Professional & Learning Journey
 
