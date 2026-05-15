@@ -1,45 +1,44 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:4c1d95,100:a855f7&height=220&section=header&text=&animation=fadeIn)
+![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/flins.png?raw=true)
 
 </div>
 
----
-
-<div align="center">
-
-# Hi, I'm | Shahd |
-
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
+<h1 align="right">Hi, I'm &nbsp;
+  <span style="color:#f0abfc">| Shahd |</span>
+</h1>
+![name](https://readme-typing-svg.demolab.com
+?font=Fira+Code&size=30&pause=1000&color=F0ABFC&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+%7C+Shahd+%7C+%F0%9F%92%9C)
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
-
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000007d8871f59db1c277616086ff&ts=494123&p=fs&cid=1&sig=21f6ed06feb02bbda2bf800c59ecd440125682c7aef56737b1469d1caf275c58&v=0" width="120" align="right"/>
 I'm passionate about coding, problem solving, and building meaningful projects.
 Currently learning, building, and improving every day.
 I believe in consistency, curiosity, and creating impact 💜
 
 </div>
 
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-<div align="center">
+<div align="center"> <img src="https://media1.tenor.com/m/7hmeeTqdS0IAAAAC/purple-fire.gif" width="120" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-f05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-f05032?style=for-the-badge&logo=git&logoColor=white) 
 
 </div>
 
----
-
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 <div align="center">
 
 ✦ ─────────────────────────────────────── ✦
 
 ## 📊 GitHub Stats
 
-![Shahd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahd0sman&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0&ring_color=7c3aed)
+![Shahd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahd0sman&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd0sman&layout=donut&hide_border=true&bg_color=0d0d14&title_color=a855f7&text_color=e2e8f0&langs_count=5)
 
@@ -47,7 +46,7 @@ I believe in consistency, curiosity, and creating impact 💜
 
 </div>
 
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 <div align="center">
 
@@ -57,7 +56,7 @@ I believe in consistency, curiosity, and creating impact 💜
 
 </div>
 
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 <div align="center">
 
@@ -69,7 +68,7 @@ I believe in consistency, curiosity, and creating impact 💜
 
 </div>
 
----
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 <div align="center">
 
