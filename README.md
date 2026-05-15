@@ -3,12 +3,49 @@
 ![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/AVO.jpg)
 
 </div>
-<div align="center">
+<div align="left">
 
 ![Hi I'm Shahd](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/header.svg)
 
 </div>
 
+<div align="center">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="60%" valign="top">
+
+<br>
+
+## Hi, I'm | Shahd |
+
+**Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
+
+<br>
+
+I'm passionate about coding, problem solving, and building meaningful projects.
+Currently learning, building, and improving every day.
+I believe in consistency, curiosity, and creating impact 💜
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git%20%26%20GitHub-f05032?style=for-the-badge&logo=git&logoColor=white)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="PASTE_YOUR_GIPHY_URL_HERE" width="200"/>
+
+</td>
+</tr>
+</table>
+
+</div>
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
 
 <img src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="120" align="right"/>
