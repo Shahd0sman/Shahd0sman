@@ -3,13 +3,15 @@
 ![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/AVO.jpg)
 
 </div>
-<div align="left">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%7C+Shahd+)](https://git.io/typing-svg)
+<div align="center">
+
+![Hi I'm Shahd](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/header.svg)
 
 </div>
+
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000007d8871f59db1c277616086ff&ts=494123&p=fs&cid=1&sig=21f6ed06feb02bbda2bf800c59ecd440125682c7aef56737b1469d1caf275c58&v=0" width="120" align="right"/>
+
+<img src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="120" align="right"/>
 I'm passionate about coding, problem solving, and building meaningful projects.
 Currently learning, building, and improving every day.
 I believe in consistency, curiosity, and creating impact 💜
