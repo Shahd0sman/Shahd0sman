@@ -12,7 +12,7 @@
 </div>
 
 <p align="left">
-  <img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="280">
+  <img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="380">
 
  I'm passionate about coding, problem solving, and building meaningful projects.
 Currently learning, building, and improving every day.
@@ -26,6 +26,9 @@ I believe in consistency, curiosity, and creating impact 💜
 ![Git](https://img.shields.io/badge/Git%20%26%20GitHub-f05032?style=for-the-badge&logo=git&logoColor=white)
 
 </p>
+
+
+
 ✦ ─────────────────────────────────────── ✦
 
 ## 📊 GitHub Stats
