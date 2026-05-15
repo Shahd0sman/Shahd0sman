@@ -1,16 +1,9 @@
 <div align="center">
-
 ![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/AVO.jpg)
-
 </div>
 
 <div align="left">
-
 ![Hi I'm Shahd](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/header.svg)
-
-</div>
-
-<div align="left">
 
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
 
@@ -18,17 +11,15 @@
 
 <table border="0" cellspacing="0" cellpadding="20" style="border:none">
 <tr>
-<td width="60%" valign="top" style="border:none">
+<td valign="top">
 
 I'm passionate about coding, problem solving, and building meaningful projects.
 Currently learning, building, and improving every day.
 I believe in consistency, curiosity, and creating impact 💜
 
 </td>
-<td width="40%" align="center" valign="middle" style="border:none">
-
+<td valign="middle">
 <img src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="280"/>
-
 </td>
 </tr>
 </table>
