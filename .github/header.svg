@@ -1,0 +1,16 @@
+<svg width="100%" viewBox="0 0 680 80" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>Hi, I'm | Shahd |</title>
+  <desc>Profile header showing Hi, I'm in white and Shahd in purple</desc>
+
+  <text
+    x="340"
+    y="52"
+    text-anchor="middle"
+    font-family="Fira Code, monospace"
+    font-size="38"
+    font-weight="700"
+    letter-spacing="2"
+  >
+    <tspan fill="#ffffff">Hi, I'm </tspan><tspan fill="#ffffff">| </tspan><tspan fill="#a855f7">Shahd</tspan><tspan fill="#ffffff"> |</tspan>
+  </text>
+</svg>
