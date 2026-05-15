@@ -1,42 +1,38 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A1CAC,2E073F,000000&height=250&section=header&text=Shahd%20Osman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+# Hi, I'm | Shahd 
 
-<h1 align="center">Hi 👋, I'm Shahd</h1>
+**Flutter Developer** | **UI / UX** | **Life-long Learner**
 
-<p align="center">
-Aspiring Developer • AI Enthusiast • Flutter Learner
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="250"/>
-</div>
+I'm passionate about coding, problem solving, and building meaningful projects.
+Currently learning, building, and improving every day.
+I believe in consistency, curiosity, and creating impact 💜
 
 ---
 
-## ✨ About Me
+## 🛠️ Tech Stack
 
-- 💜 Passionate about coding & creative tech
-- 🤖 Currently learning AI & Flutter
-- 🎮 Gamer who loves fast-paced games
-- 🌱 Improving every single day
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-<img src="https://user-images.githubusercontent.com/74038190/216649441-c7b9d602-5e7b-4c62-8c15-0c7c0b1c9d2b.gif" width="100%"/>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=midnight-purple"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=midnight-purple"/>
-</p>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahd0sman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a855f7&icon_color=a855f7&text_color=e2e8f0)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd0sman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d14&title_color=a855f7&text_color=e2e8f0)
 
 ---
 
-<h3 align="center">💜 Thank You For Visiting 💜</h3>
+## 🐍 Contribution Graph
 
-<p align="center">
-Keep coding. Keep growing.
-</p>
+![Snake animation](https://github.com/Shahd0sman/Shahd0sman/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+> 💜 *Keep coding, Keep growing.*
+
+### Thanks for visiting! I'm always open to collaboration 🚀
