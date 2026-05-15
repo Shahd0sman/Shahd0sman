@@ -3,13 +3,7 @@
 ![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/AVO.jpg)
 
 </div>
-
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-<h1 align="right">Hi, I'm &nbsp;
-  <span style="color:#f0abfc">| Shahd |</span>
-</h1>
-![name](https://readme-typing-svg.demolab.com
-?font=Fira+Code&size=30&pause=1000&color=F0ABFC&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+%7C+Shahd+%7C+%F0%9F%92%9C)
+<h1 align="left">Hi, I'm &nbsp; <span style="color:#9400d3">| Shahd |</span> </h1>
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
 <img src="https://chatgpt.com/backend-api/estuary/content?id=file_000000007d8871f59db1c277616086ff&ts=494123&p=fs&cid=1&sig=21f6ed06feb02bbda2bf800c59ecd440125682c7aef56737b1469d1caf275c58&v=0" width="120" align="right"/>
 I'm passionate about coding, problem solving, and building meaningful projects.
