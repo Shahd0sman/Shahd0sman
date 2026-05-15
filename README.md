@@ -5,7 +5,7 @@
 </div>
 <div align="left">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%7C+Shahd+%7C+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+%7C+Shahd+)](https://git.io/typing-svg)
 
 </div>
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
