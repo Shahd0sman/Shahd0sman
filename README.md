@@ -3,6 +3,7 @@
 ![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/AVO.jpg)
 
 </div>
+
 <div align="left">
 
 ![Hi I'm Shahd](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/header.svg)
@@ -11,13 +12,9 @@
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0">
+<table  cellspacing="0" cellpadding="0">
 <tr>
 <td width="60%" valign="top">
-
-<br>
-
-## Hi, I'm | Shahd |
 
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
 
@@ -39,7 +36,7 @@ I believe in consistency, curiosity, and creating impact 💜
 </td>
 <td width="40%" align="center" valign="middle">
 
-<img src="PASTE_YOUR_GIPHY_URL_HERE" width="200"/>
+<img src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="200"/>
 
 </td>
 </tr>
