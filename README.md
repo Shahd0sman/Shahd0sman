@@ -1,47 +1,42 @@
-
-<h1 align="center">✨ Hello there, fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>! I'm Shahd</h1>
-<img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/Ghost.gif" width="200" style="border-radius:20px;">
-
-
-
-
-## ✨ Tech Stack & Tools
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,python,sqlite,mysql,git,github,figma,vscode,androidstudio&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A1CAC,2E073F,000000&height=250&section=header&text=Shahd%20Osman&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<h1 align="center">Hi 👋, I'm Shahd</h1>
+
+<p align="center">
+Aspiring Developer • AI Enthusiast • Flutter Learner
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="250"/>
+</div>
+
 ---
 
-<p align="center"><img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"></p>
+## ✨ About Me
+
+- 💜 Passionate about coding & creative tech
+- 🤖 Currently learning AI & Flutter
+- 🎮 Gamer who loves fast-paced games
+- 🌱 Improving every single day
 
 ---
 
-## 📌 Featured Projects (Soon) 
-
----
+<img src="https://user-images.githubusercontent.com/74038190/216649441-c7b9d602-5e7b-4c62-8c15-0c7c0b1c9d2b.gif" width="100%"/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=ritsu&show_icons=true&theme=dracula"/>
-</p>
-
-<p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritsu&theme=dracula" />
-</p>
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-<a href="https://github.com/Shahd0sman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="www.linkedin.com/in/shahd-osman-2b2a79371"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:shahdosman819@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=midnight-purple"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=midnight-purple"/>
 </p>
 
 ---
 
-<p align="center"><strong>🖤 Thanks for stopping by ✨</strong></p>
+<h3 align="center">💜 Thank You For Visiting 💜</h3>
 
+<p align="center">
+Keep coding. Keep growing.
+</p>
