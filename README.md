@@ -1,10 +1,12 @@
 <div align="center">
+  
 ![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/AVO.jpg)
 </div>
 
 <div align="left">
+  
 ![Hi I'm Shahd](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/header.svg)
-
+  
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
 
 </div>
