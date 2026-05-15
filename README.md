@@ -3,16 +3,15 @@
 ![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/AVO.jpg)
 </div>
 
-<div align="left">
+<div align="center">
   
 ![Hi I'm Shahd](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/header.svg)
   
 **Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
 
 </div>
-
+<img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="380">
 <p align="left">
-  <img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="380">
 
  I'm passionate about coding, problem solving, and building meaningful projects.
 Currently learning, building, and improving every day.
@@ -27,13 +26,12 @@ I believe in consistency, curiosity, and creating impact 💜
 
 </p>
 
-
-
+<div align="center">
 ✦ ─────────────────────────────────────── ✦
 
 ## 📊 GitHub Stats
 
-![Shahd's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahd0sman&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0)
+![Shahd's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shahd0sman&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd0sman&layout=donut&hide_border=true&bg_color=0d0d14&title_color=a855f7&text_color=e2e8f0&langs_count=5)
 
@@ -54,8 +52,7 @@ I believe in consistency, curiosity, and creating impact 💜
 ![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
 <div align="center">
-
-✦ ─────────────────────────────────────── ✦
+  ✦ ─────────────────────────────────────── ✦
 
 ## 🐍 Watch my contributions get eaten!
 
