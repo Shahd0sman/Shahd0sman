@@ -1,81 +1,72 @@
 <div align="center">
   
-![banner](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/AVO.jpg)
+![banner](https://raw.githubusercontent.com/Shahd0sman/Shahd0sman/8666cdfed9157e68a0d74b92acd982d13ec84815/.github/610167449543830969.jpg)
 </div>
 
-<div align="center">
-  
-![Hi I'm Shahd](https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/header.svg)
-  
-**Aspiring Developer** | **Python Enthusiast** | **Life-long Learner**
+<div align="left">
 
-</div>
-<img align="right" src="https://github.com/Shahd0sman/Shahd0sman/blob/main/.github/ChatGPT%20Image%20May%2015%2C%202026%2C%2003_51_00%20PM.png" width="380">
-<p align="left">
+<h1>Hi, I'm Shahd ₍^. .^₎⟆ </h1>
 
- I'm passionate about coding, problem solving, and building meaningful projects.
-Currently learning, building, and improving every day.
-I believe in consistency, curiosity, and creating impact 💜
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-f34b7d?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-563d7c?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-f1e05a?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git%20%26%20GitHub-f05032?style=for-the-badge&logo=git&logoColor=white)
-
+<p style="max-width: 700px; font-size: 16px; line-height: 1.8;">
+  Computer Science student at <b>Suez Canal University</b> with a strong curiosity for learning and exploring new technologies. 
+  I’m a fast learner, reliable teammate, and someone who genuinely enjoys building things that combine creativity and logic.
 </p>
 
+<p style="max-width: 700px; font-size: 16px; line-height: 1.8;">
+  I found my passion in <b>AI</b> because it keeps me challenged and excited in a way other fields never did. 
+  Alongside AI, I also have a solid background in <b>UI/UX design</b>, which helps me create clean and user-friendly experiences.
+</p>
+
+<p style="max-width: 700px; font-size: 16px; line-height: 1.8;">
+  Don't forget to take a look at my projects!!! they reflect both my technical growth and my design mindset.
+</p>
+</div>
+
 <div align="center">
-✦ ─────────────────────────────────────── ✦
+<p>╭────────────── ✦ ──────────────╮</p>
+</div>
+<h2 align="left">Tech Stack ⋆✴︎˚｡⋆ </h2>
+<div align="center">
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma,vscode,linux,git,github" />
+</td>
+</tr>
+</table>
+</div>
 
-## 📊 GitHub Stats
+<h2 align='left'> STATS ᶻ 𝗓 𐰁</h2>
+<div align="center">
 
-![Shahd's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shahd0sman&show_icons=true&hide_border=true&bg_color=0d0d14&title_color=a855f7&icon_color=c084fc&text_color=e2e8f0)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahd0sman&layout=donut&hide_border=true&bg_color=0d0d14&title_color=a855f7&text_color=e2e8f0&langs_count=5)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Shahd0sman&theme=transparent&hide_border=true&background=0d0d14&ring=a855f7&fire=c084fc&currStreakLabel=a855f7&sideLabels=e2e8f0&dates=94a3b8&stroke=2a2a4a&currStreakNum=e2e8f0&sideNums=e2e8f0)
+<!-- Streak: & → &amp; -->
+<img src="https://streak-stats.demolab.com/?user=Shahd0sman&theme=dark&hide_border=true&background=0d1117&ring=800020&fire=800020&currStreakLabel=b03060&sideLabels=ffffff&dates=cccccc" alt="GitHub Streak"/>
 
 </div>
 
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
 
-<div align="center">
-
-## 🟪 Contribution Activity
-
-![Shahd's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahd0sman&bg_color=0d0d14&color=a855f7&line=7c3aed&point=c084fc&area=true&area_color=4c1d95&hide_border=true&radius=6)
-
-</div>
-
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
-<div align="center">
-  ✦ ─────────────────────────────────────── ✦
-
-## 🐍 Watch my contributions get eaten!
-
-![Snake animation](https://raw.githubusercontent.com/Shahd0sman/Shahd0sman/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)
-
-<div align="center">
-
-## Thank You! 🤍
-
-Thanks for visiting my profile!
-I'm always open to collaboration, new ideas, and learning together.
-Let's build something amazing! 🚀
-
-✦ &nbsp;&nbsp; *Keep coding,* &nbsp;&nbsp; ✦
 <br>
-✦ &nbsp;&nbsp; *Keep growing.* &nbsp;&nbsp; ✦
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shahd0sman&color=a855f7&style=for-the-badge&label=Profile+Views)
-
+<h2 align='left'> CONTACT>>></h2>
+<div align='center'>
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://img.shields.io/badge/Portfolio-800020?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<a href="mailto:shahdosman819gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahd-osman-2b2a79371">
+  <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<div align='center'>
+<img src="https://komarev.com/ghpvc/?username=Shahd0sman&label=Profile%20Views&color=800020&style=flat" />
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:4c1d95,100:0d0d14&height=120&section=footer)
+<br><br>
+<div align='center'>╰────────────── ✦ ──────────────╯</div>
+ Check out my pinned repositories below ↴ >⩊<
+</div>
