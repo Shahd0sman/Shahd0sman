@@ -60,7 +60,7 @@
 <a href="mailto:shahdosman819gmail.com">
   <img src="https://img.shields.io/badge/Gmail-800020?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahd-osman-2b2a79371">
+<a href="https://www.linkedin.com/in/shahd-osman-2b2a79371">
   <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <div align='center'>
