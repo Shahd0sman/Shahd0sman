@@ -13,10 +13,8 @@
 </p>
 
 <p style="max-width: 700px; font-size: 16px; line-height: 1.8;">
-  I found my passion in <b>AI</b> because it keeps me challenged and excited in a way other fields never did. 
-  Alongside AI, I also have a solid background in <b>UI/UX design</b>, which helps me create clean and user-friendly experiences.
+  I'm a Front-End and UIUX Interner
 </p>
-
 <p style="max-width: 700px; font-size: 16px; line-height: 1.8;">
   Don't forget to take a look at my projects!!! they reflect both my technical growth and my design mindset.
 </p>
@@ -30,7 +28,7 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,html,css,javascript,react" />
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=figma,vscode,linux,git,github" />
